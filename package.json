@@ -1,0 +1,21 @@
+{
+  "name": "flightproject",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "http-errors": "~1.6.3",
+    "localstorage": "^1.0.1",
+    "morgan": "~1.9.1",
+    "multer": "^1.4.5-lts.2",
+    "mysql2": "^3.14.0",
+    "node-localstorage": "^3.0.5",
+    "nodemon": "^3.1.9"
+  }
+}
